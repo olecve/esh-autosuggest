@@ -40,7 +40,7 @@ you can enable the autosuggestions with:
 
 *** Key Bindings
 - ~<right>~ and ~C-f~ are used to select the suggestion.
-- ~M-<right>~ and ~M-f~ are used to select the nnext word in the suggsetion.
+- ~M-<right>~ and ~M-f~ are used to select the next word in the suggestion.
 
 Keys can be modified using ~esh-autossugest-active-map~.
 
